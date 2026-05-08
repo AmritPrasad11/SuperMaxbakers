@@ -1,9 +1,8 @@
 {
   "buildCommand": "bun run build",
   "installCommand": "bun install",
-  "env": {
-    "TANSTACK_START": "true"
-  },
+  "outputDirectory": "dist/client",
+  "framework": "vite",
   "rewrites": [
     {
       "source": "/(.*)",
