@@ -1,0 +1,4 @@
+wrangler.jsonc
+.wrangler
+.dev.vars
+dist/server
